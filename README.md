@@ -1,6 +1,6 @@
-# Awesome AI Tools
+# Awesome Projects
 
-A curated list of awesome AI tools on GitHub to enhance your productivity and explore the power of artificial intelligence.
+A curated list of awesome projects on GitHub to enhance your productivity and explore innovative tools.
 
 ## Web Tools
 - [kkangert/kspider](https://github.com/kkangert/kspider): A user-friendly and efficient visual web scraper that simplifies data extraction.
